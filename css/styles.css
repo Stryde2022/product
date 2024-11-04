@@ -1,0 +1,83 @@
+.first-bg {
+    background-color:  #f2ebe3;
+    width: 100%;
+    height: 800px;
+    margin: auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.img-bg {
+    width: 350px;
+    height: 540px;
+    border-top-left-radius: 20px;
+    border-bottom-left-radius: 20px;
+}
+
+.white-bg {
+    background-color: white;
+    width: 340px;
+    height: 540px;
+    border-top-right-radius: 20px;
+    border-bottom-right-radius: 20px;
+    padding-left: 30px;
+    font-family: "Montserrat", sans-serif;
+}
+
+.perfume-txt {
+    color: #6c7289;
+    letter-spacing: 8px;
+    margin-top: 30px;
+}
+
+.gabrielle-txt {
+    font-family: "Fraunces", sans-serif;
+    width: 230px;
+}
+
+.floral-txt {
+    color: #6c7289;
+    line-height: 1.8;
+    width: 260px;
+}
+
+.snd-gd {
+    display: flex;
+    align-items: center;
+}
+
+.cash-txt {
+    font-family: "Fraunces", sans-serif;
+    color:   #3c8067;
+    display: inline-block;
+}
+
+.stroke-txt {
+    color: #6c7289;
+    display: inline-block;
+    margin-left: 20px;
+    text-decoration: line-through;
+    
+}
+
+.button {
+    background-color:  #3c8067;
+    text-align: center;
+    padding: 20px 0;
+    color: #ffffff;
+    font-weight: 600;
+    border-radius: 10px;
+    margin-top: 20px;
+    width: 300px;
+}
+
+.button:hover {
+    background-color: #1a4031;
+    
+}
+
+.cart-txt {
+    display: inline-block;
+    margin-left: 10px;
+}
